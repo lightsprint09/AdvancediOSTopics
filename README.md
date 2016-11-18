@@ -7,6 +7,11 @@ This is a list of blog posts, videos and reposetorys to improve your software en
 - [Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/) *Expert*
 - [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
 
+## Thin ViewControllers
+
+- [Lighter View Controllers](https://www.objc.io/issues/1-view-controllers/lighter-view-controllers/)
+- [Sourcin - Framework for abstracting TableViewDataSources](https://github.com/lightsprint09/Sourcing)
+
 ## Dependency Injection
 - [Dependency Injection in Swift](https://www.youtube.com/watch?v=Jg5MvmR3TtM&list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k&index=15)
 - [DIP Framework](https://github.com/AliSoftware/Dip)
